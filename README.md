@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **diff. programming languages**
 
-- 👨‍💻 All of my projects are available at [ejcdenosta.space](ejcdenosta.space)
+- 👨‍💻 All of my projects are available at **[ejcdenosta.space](https://ejcdenosta.space)**
 
 - 📫 How to reach me **elainejoycedenosta@gmail.com**
 
