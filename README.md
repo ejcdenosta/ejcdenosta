@@ -1,4 +1,4 @@
-[![ejcdenosta-header-image](https://user-images.githubusercontent.com/112079899/204545036-7268ce84-5cf5-4937-bc4a-c73aa54774cd.png)](https://ejcdenosta.space)
+[![ejcdenosta-header-image](https://user-images.githubusercontent.com/112079899/204545036-7268ce84-5cf5-4937-bc4a-c73aa54774cd.png)]
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Science+Student"/>
@@ -16,8 +16,6 @@
 - 🔭 I’m currently studying **Computer Science**
 
 - 🌱 I’m currently learning **diff. programming languages**
-
-- 👨‍💻 All of my projects are available at **[ejcdenosta.space](https://ejcdenosta.space)**
 
 - 📫 How to reach me **elainejoycedenosta@gmail.com**
 
